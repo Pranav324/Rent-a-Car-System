@@ -10,6 +10,5 @@
 
 ## Authors
 
-##### Muhammed Enes Şahin
-##### Ayberk Ulaş
-##### Mahmut Can Durak
+##### Pranav Anil Bhagwat
+##### Mrunal Vaidya
