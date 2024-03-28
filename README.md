@@ -8,9 +8,12 @@ Developed a Rent a Car System utilizing Java with Spring Boot for the backend an
 # Techs
 
 ##### Backend :  Java Spring Boot
+##### Database : Mysql
 ##### Frontend : React 
 
 ## Authors
 
 ##### Pranav Anil Bhagwat
 ##### Mrunal Vaidya
+##### Suyash Tambe
+##### Vinay Wardhe
